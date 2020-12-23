@@ -1,7 +1,7 @@
 <h1>O que é uma API?</h1>
 
 <p>
-<h4>API significa ''Application Programming Interface''. </h4>
+<h4  style="color: red;">API significa ''Application Programming Interface''. </h4>
 A explicação técnica é: APIs são blocos de construção ou processos abertos projetados para permitir que o software
 interaja e se integre a um software, sistema, programa ou aplicativo existente. <br>
 
